@@ -1,6 +1,6 @@
 {
 	"schemaVersion": 1,
-	"id": "tutorial-mod",
+	"id": "tutorialmod",
 	"version": "${version}",
 	"name": "Tutorial Mod",
 	"description": "This is an initialize mod by chongzc",
@@ -9,7 +9,7 @@
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"sources": "https://github.com/chongzc1234/fabric-tutorial-1.21.X"
 	},
 	"license": "MIT",
 	"icon": "assets/tutorial-mod/icon.png",
